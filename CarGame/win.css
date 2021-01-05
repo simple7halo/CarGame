@@ -1,0 +1,26 @@
+body{
+	background-image:url(./img/win.jpg);
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	background-color:black;
+	height:890px;
+}
+
+p{
+	font-size:70px;
+	text-align:center;
+	font:bold;
+	color: red;
+}
+
+
+#playAgain{
+	position: relative;
+    top: 675px;
+	left:1550px;
+	height:50px;
+	width:200px;
+	background-color:orange;
+}
+
+

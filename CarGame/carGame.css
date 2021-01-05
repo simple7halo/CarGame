@@ -1,0 +1,45 @@
+body{
+	background-image:url(./img/car.jpg);
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	height:650px;
+}
+h1{
+	text-align:center;
+	color:blue;
+}
+#instructions{
+	margin-left:590px;
+	margin-top:400px;
+	padding:10px 30px;
+	color:black;
+	background-color:blue;
+	padding:10px 30px;
+	font-size:1.5em;
+	font-weight:bold;
+	font-family:Impact,fantasy;
+}
+#play{
+	margin-left:625px;
+	margin-top:20px;
+	color:black;
+	background-color:blue;
+	padding:10px 30px;
+	font-size:1.5em;
+	font-weight:bold;
+	font-family:Impact,fantasy;
+}
+#play:hover{
+	color:orangered;
+	background-color:white;
+}
+#instructions:hover{
+	color:orangered;
+	background-color:white;
+}
+#wrapper{	
+	background-image:url(./img/instcar.jpg);
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	height:650px;
+}
